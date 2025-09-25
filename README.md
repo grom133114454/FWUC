@@ -1,6 +1,6 @@
 Step 1. Make sure you unlock steam via FireWatchUnlocker
 
-Step 2. Install [Millennium](https://steambrew.app/)
+Step 2. Install [Millennium](https://steambrew.app/):
 open powershell and enter iwr -useb "https://steambrew.app/install.ps1" | iex 
 
 Step 3. Download the Plugin
